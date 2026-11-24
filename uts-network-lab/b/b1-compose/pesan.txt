@@ -1,0 +1,7 @@
+# UTS Keamanan Jaringan - Kasus 10 (k10)
+Nama: Zul Fikri Nugroho
+NIM: 24552011361
+IP Korban: 172.18.0.2
+IP Gateway: 172.18.0.3
+MAC Gateway: 1a:63:b7:c6:71:27
+Hex NIM: 3234353532303131333631

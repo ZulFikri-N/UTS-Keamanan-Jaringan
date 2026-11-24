@@ -1,0 +1,4 @@
+services:
+  lab-compose:
+    image: uts-openssl
+    container_name: lab-compose-k10

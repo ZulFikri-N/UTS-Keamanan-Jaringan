@@ -1,0 +1,4 @@
+services:
+  dns-exfil-lab:
+    image: uts-dnsmasq
+    container_name: dns-exfil-k10
